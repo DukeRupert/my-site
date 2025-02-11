@@ -19,7 +19,7 @@ subtitle = "Join me on a journey from Papua New Guinea to Montana, exploring tec
 [sidebar.avatar]
 enabled = true
 local = true
-src = "img/avatar.png"
+src = "img/avatar.jpg"
 
 [article]
 headingAnchor = false
